@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Marconato Venturini</h1>
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A padawan aspiring to be full-stack developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Alura Challenge Front-End](https://github.com/dawkk/AluraChallengeFE)
