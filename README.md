@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Gabriel Marconato Venturini</h1>
 <h3 align="center">A padawan aspiring to be full-stack developer from Brazil</h3>
 
