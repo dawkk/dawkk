@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A padawan 🖥️ aspiring to be full-stack developer from Brazil 🇧🇷</h3>
 
-- 🔭 I’m currently working on [Alura Python](https://github.com/dawkk/Alura-Python)
+- 🔭 I’m currently working on [Alura Geek](https://github.com/dawkk/AluraGeek)
 
-- 🌱 I’m currently learning **Python, Nodejs**
+- 🌱 I’m currently learning **React, Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dawkk](https://github.com/dawkk)
 
