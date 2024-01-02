@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A padawan 🖥️ aspiring to be full-stack developer from Brazil 🇧🇷</h3>
 
-- 🔭 I’m currently working on [La Cookeria](https://github.com/dawkk/TCC-DesenvolvimentoWebFullStack)
+<!-- - 🔭 I’m currently working on [La Cookeria](https://github.com/dawkk/TCC-DesenvolvimentoWebFullStack) -->
 
-- 🌱 I’m currently learning **React, Java**
+- 🌱 I’m currently learning and improving in **React, Typescript, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dawkk](https://github.com/dawkk)
 
