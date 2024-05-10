@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A padawan 🖥️ aspiring to be full-stack developer from Brazil 🇧🇷</h3>
+<h3 align="center">🖥️ A padawan  developer from Brazil 🇧🇷 🖥️</h3>
 
 <!-- - 🔭 I’m currently working on [La Cookeria](https://github.com/dawkk/TCC-DesenvolvimentoWebFullStack) -->
 
